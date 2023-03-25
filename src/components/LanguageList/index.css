@@ -1,0 +1,23 @@
+.container-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.heading-greeting {
+  color: #1e293b;
+}
+
+.lists-Objects {
+  display: flex;
+  width: 30%;
+  justify-content: space-around;
+}
+
+.image-url {
+  width: 200px;
+  height: 250px;
+  margin-top: 10px;
+}

@@ -1,0 +1,17 @@
+.list-item {
+  list-style-type: none;
+}
+
+.button-style {
+  border: 2px solid #db1c48;
+  color: #db1c48;
+  background-color: transparent;
+  width: 70px;
+  height: 30px;
+  border-radius: 20px;
+}
+
+.button-text {
+  background-color: #db1c48;
+  color: #ffffff;
+}
